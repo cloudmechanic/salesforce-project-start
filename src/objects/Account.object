@@ -534,7 +534,7 @@
     <listViews>
         <fullName>AllAccounts</fullName>
         <filterScope>Everything</filterScope>
-        <label>All Accounts</label>
+        <label>YAll Accounts</label>
     </listViews>
     <listViews>
         <fullName>RV_Sales_Location_Accounts</fullName>
